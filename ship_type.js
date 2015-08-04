@@ -1,3 +1,4 @@
+// ship class type
 var ship_type = [
         { 1 ,'島風型', '시마카제급' ,[10]},
         // ship class type id, , , ship list
